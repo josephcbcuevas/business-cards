@@ -86,3 +86,9 @@ body{
 .about > h1, .interests > h1{
     font-size:20px;
 }
+
+.headshot{
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+}
