@@ -13,7 +13,7 @@ body{
 #card-dark{
     background-color:#1C1C21;
     box-shadow: 2px 2px 7px #000000;
-    color:#F7E09B;
+    color:#fcfcfc;
     background-image: url(./logo-dark.svg);
     background-repeat: no-repeat;
     background-position: center 75%;
@@ -21,7 +21,7 @@ body{
 }
 
 #card-dark > .main > .about > p, #card-dark > .main > .interests > p{
-    color:white;
+    color:#fcfcfc;
 }
 
 #head-dark{
@@ -31,7 +31,7 @@ body{
 }
 
 #light{
-    background-color: #D1D1D1;
+    background-color: #ededed;
     width:50%;
 }
 
