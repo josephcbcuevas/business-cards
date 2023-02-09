@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/business-cards/static/js/main.192f4661.js",
+    "main.js": "/business-cards/static/js/main.6c7edd43.js",
     "static/js/787.7ec283e6.chunk.js": "/business-cards/static/js/787.7ec283e6.chunk.js",
     "static/media/Resume2023.pdf": "/business-cards/static/media/Resume2023.a5ec02130e1737515cb6.pdf",
     "static/media/resume-dark.svg": "/business-cards/static/media/resume-dark.b93193ba14f9e9df1d29a65832e1b7b2.svg",
@@ -12,10 +12,10 @@
     "static/media/linkedin-light.svg": "/business-cards/static/media/linkedin-light.9fa1d9629f8dd0fe7a7f1b24752289d2.svg",
     "static/media/email-dark.svg": "/business-cards/static/media/email-dark.88e3985e338f90c61a44ba517e6557c7.svg",
     "static/media/email-light.svg": "/business-cards/static/media/email-light.e5615f310d167b2836e7544a99a8928f.svg",
-    "main.192f4661.js.map": "/business-cards/static/js/main.192f4661.js.map",
+    "main.6c7edd43.js.map": "/business-cards/static/js/main.6c7edd43.js.map",
     "787.7ec283e6.chunk.js.map": "/business-cards/static/js/787.7ec283e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.192f4661.js"
+    "static/js/main.6c7edd43.js"
   ]
 }
