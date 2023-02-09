@@ -36,7 +36,7 @@ body{
 }
 
 #card-light{
-    background-color: #f3f3f3;
+    background-color: #FCFCFC;
     box-shadow: 2px 2px 7px #333333;
     color:#0D1821;
     background-image: url(./logo-light.svg);
@@ -46,7 +46,7 @@ body{
 }
 
 #head-light{
-    background-color: #F7E09B;
+    background-color: #EDEDEC;
     border-radius:10px 10px 0 0;
     padding:20px;
 }
