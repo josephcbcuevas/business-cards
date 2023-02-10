@@ -14,7 +14,7 @@ body{
     background-color:#1C1C21;
     box-shadow: 2px 2px 7px #000000;
     color:#fcfcfc;
-    background-image: url(./logo-dark.svg);
+    background-image: url(../src/images/logo-dark.svg);
     background-repeat: no-repeat;
     background-position: center 75%;
     background-size: 65%;
@@ -39,7 +39,7 @@ body{
     background-color: #FCFCFC;
     box-shadow: 2px 2px 7px #333333;
     color:#0D1821;
-    background-image: url(./logo-light.svg);
+    background-image: url(../src/images/logo-light.svg);
     background-repeat: no-repeat;
     background-position: center 75%;
     background-size: 65%;
